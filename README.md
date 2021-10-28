@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EkanshBari03
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA + kotlin
+- 🌱 I’m currently learning DSA + web development 
 - 💞️ I’m looking to collaborate on Gmail
 - 📫 How to reach me akanshverma03@gmail.com
 
