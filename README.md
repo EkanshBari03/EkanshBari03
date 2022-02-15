@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DSA + web development 
 - 💞️ I’m looking to collaborate on Gmail
-- 📫 How to reach me akanshverma03@gmail.com
+- 📫 How to reach me akanshverma3@gmail.com
 
 <!---
 EkanshBari03/EkanshBari03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
