@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akanshverma3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z3V_u9OzNicPbVTm9QNFdmz6GFRLTBZr/view?usp=sharing](https://drive.google.com/file/d/1Z3V_u9OzNicPbVTm9QNFdmz6GFRLTBZr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10P6pyVXp2bR3_F84diQiSxwVmREAiAGQ/view?usp=sharing](https://drive.google.com/file/d/10P6pyVXp2bR3_F84diQiSxwVmREAiAGQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
