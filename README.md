@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **E-Commerce - React - Project**
+- 🔭 I’m currently building  **React - Projects**
 
 - 🌱 I’m currently learning **ReactJS,MongoDB,ExpressJS,NodeJS**
 
